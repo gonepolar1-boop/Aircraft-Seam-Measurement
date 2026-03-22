@@ -1,31 +1,27 @@
 num_samples: 60
-MAE: 3.6425158977508545
-RMSE: 9.862598419189453
-Max Error: 62.2196044921875
-Mean Relative Error: 0.1583455204963684
-Mean Center Residual: 6.671083927154541
+MAE: 1.5990408658981323
+RMSE: 3.1227192878723145
+Max Error: 12.889822006225586
+Mean Relative Error: 0.11209668964147568
+Mean Center Residual: 6.524749279022217
 
 Grouped Metrics
-gt_width=4, num_samples=4, MAE=0.077880, RMSE=0.103250, Max Error=0.184634
-gt_width=5, num_samples=6, MAE=0.167847, RMSE=0.182982, Max Error=0.317833
-gt_width=6, num_samples=8, MAE=0.552901, RMSE=0.644171, Max Error=1.115426
-gt_width=7, num_samples=8, MAE=1.168975, RMSE=1.268715, Max Error=1.695312
-gt_width=8, num_samples=5, MAE=1.738243, RMSE=1.857479, Max Error=2.449219
-gt_width=9, num_samples=6, MAE=1.800840, RMSE=1.885794, Max Error=2.327499
-gt_width=10, num_samples=2, MAE=2.264258, RMSE=2.372231, Max Error=2.971801
-gt_width=11, num_samples=2, MAE=1.706542, RMSE=1.812670, Max Error=2.317677
-gt_width=12, num_samples=3, MAE=3.524050, RMSE=3.565812, Max Error=4.293172
-gt_width=14, num_samples=2, MAE=2.956704, RMSE=3.053660, Max Error=3.720080
-gt_width=16, num_samples=1, MAE=0.679977, RMSE=0.679977, Max Error=0.679977
-gt_width=17, num_samples=1, MAE=2.383562, RMSE=2.383562, Max Error=2.383562
-gt_width=18, num_samples=1, MAE=1.054838, RMSE=1.054838, Max Error=1.054838
-gt_width=19, num_samples=2, MAE=1.969198, RMSE=2.588424, Max Error=3.649138
-gt_width=21, num_samples=1, MAE=2.127420, RMSE=2.127420, Max Error=2.127420
-gt_width=22, num_samples=1, MAE=2.232410, RMSE=2.232410, Max Error=2.232410
-gt_width=34, num_samples=1, MAE=6.455269, RMSE=6.455269, Max Error=6.455269
-gt_width=35, num_samples=1, MAE=18.730995, RMSE=18.730995, Max Error=18.730995
-gt_width=37, num_samples=1, MAE=10.796759, RMSE=10.796759, Max Error=10.796759
-gt_width=39, num_samples=1, MAE=5.077442, RMSE=5.077442, Max Error=5.077442
-gt_width=57, num_samples=1, MAE=9.480095, RMSE=9.480095, Max Error=9.480095
-gt_width=85, num_samples=1, MAE=34.357140, RMSE=34.357140, Max Error=34.357140
-gt_width=168, num_samples=1, MAE=62.219604, RMSE=62.219604, Max Error=62.219604
+gt_width=3, num_samples=1, MAE=0.438206, RMSE=0.438206, Max Error=0.438206
+gt_width=4, num_samples=8, MAE=0.395707, RMSE=0.505309, Max Error=1.026540
+gt_width=5, num_samples=3, MAE=0.238951, RMSE=0.352061, Max Error=0.604472
+gt_width=6, num_samples=5, MAE=0.253146, RMSE=0.293530, Max Error=0.431912
+gt_width=7, num_samples=7, MAE=0.506093, RMSE=0.547380, Max Error=0.885703
+gt_width=8, num_samples=9, MAE=0.720915, RMSE=0.817045, Max Error=1.318393
+gt_width=9, num_samples=8, MAE=1.179574, RMSE=1.299143, Max Error=2.533991
+gt_width=10, num_samples=2, MAE=0.920372, RMSE=0.948268, Max Error=1.148685
+gt_width=11, num_samples=1, MAE=1.069945, RMSE=1.069945, Max Error=1.069945
+gt_width=12, num_samples=4, MAE=2.209163, RMSE=3.148866, Max Error=5.954060
+gt_width=13, num_samples=2, MAE=1.744766, RMSE=2.147249, Max Error=2.996353
+gt_width=14, num_samples=1, MAE=3.254298, RMSE=3.254298, Max Error=3.254298
+gt_width=18, num_samples=3, MAE=4.146327, RMSE=4.556800, Max Error=6.773466
+gt_width=27, num_samples=1, MAE=0.212324, RMSE=0.212324, Max Error=0.212324
+gt_width=33, num_samples=1, MAE=11.741486, RMSE=11.741486, Max Error=11.741486
+gt_width=38, num_samples=1, MAE=0.498539, RMSE=0.498539, Max Error=0.498539
+gt_width=45, num_samples=1, MAE=12.889822, RMSE=12.889822, Max Error=12.889822
+gt_width=68, num_samples=1, MAE=10.815788, RMSE=10.815788, Max Error=10.815788
+gt_width=169, num_samples=1, MAE=3.800400, RMSE=3.800400, Max Error=3.800400
