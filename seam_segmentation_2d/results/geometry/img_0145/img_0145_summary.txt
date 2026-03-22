@@ -1,0 +1,11 @@
+image_name: img_0145.png
+mask_name: img_0145_pred_mask.png
+valid_rows: 63
+mean_width: 47.14285659790039
+max_width: 160.0
+min_width: 3.0
+std_width: 46.357086181640625
+centerline_fit_slope: 7.393577188940092
+centerline_fit_bias: -2031.7156458013308
+mean_abs_center_residual: 25.377161026000977
+max_abs_center_residual: 53.84742736816406

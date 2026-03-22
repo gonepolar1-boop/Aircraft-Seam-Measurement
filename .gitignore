@@ -57,3 +57,5 @@ Thumbs.db
 
 # Generated evaluation artifacts
 2d_seam_training_and_evaluation/results/
+
+data/input_data/
